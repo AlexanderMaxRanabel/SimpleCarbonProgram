@@ -8,7 +8,7 @@ fn Main() -> i32 {
   if(s==13){
      Print("Jamalium");
   }
-  else{
+  else if(s==1){
       Print("wow");
   }
   return 0;
